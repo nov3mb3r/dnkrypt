@@ -19,21 +19,6 @@ print('''
 
 Perform simple cryptanalysis tasks: ''' )
 
-"""	
-		version 0.0
-		-Basic Program
-	version 0.1 released on 5/10/15
-		-Binary2Text bugs fixed
-		-Morse Code implementation	
-	version 0.2 released on 7/10/15
-		-Easier menu options
-	version 1.0 released on 9/10/15
-		-Caesar algorithm
-		-Option to export to file
-
-	next version: ? addition of modern enc algos, better modularziation
-
-
 
 def Menu():
 	print ('''1) Find & Replace (fr)
